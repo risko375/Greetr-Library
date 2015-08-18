@@ -7,4 +7,4 @@ Supports English and Spanish languages
 
 Reusable library/framework
 
-Easy to type 'G$()' structure
+Supports jQuery
