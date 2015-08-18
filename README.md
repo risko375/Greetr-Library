@@ -1,5 +1,5 @@
 # Greetr-Library
-A Javascript Library
+A simple Javascript Library
 
 When given a first name, last name and optional language it generates formal and non formal greetings
 
